@@ -6,8 +6,6 @@
 
 Check out my [Gist on setting up multiple GitHub accounts and SSH Keys](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on 
      * Making online assessments easier to deliver and scale elegantly.
         * My daily workflows include
