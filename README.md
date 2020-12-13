@@ -4,7 +4,7 @@
 **krmckone/krmckone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Check out my [Gist on setting up multiple GitHub accounts and SSH Keys](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
+Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
 
 - 🔭 I’m currently working on 
      * Making online assessments easier to deliver and scale elegantly.
