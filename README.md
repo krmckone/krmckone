@@ -13,6 +13,7 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
           * Go/Python/Alacritty(zsh)
           * Postgres
      * Making development workflows easier (development and testing)
+     * [A basic static site generator](https://github.com/krmckone/lk-site)
 - 🌱 I’m currently learning
   * Linux programming interface
   * C Programming
