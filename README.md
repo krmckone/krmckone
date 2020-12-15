@@ -10,7 +10,7 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
      * Making online assessments easier to deliver and scale elegantly.
         * My daily workflows include
           * Javascript/Vue/various front end tech
-          * Go/Python/Shell(zsh)
+          * Go/Python/Alacritty(zsh)
           * Postgres
      * Making development workflows easier (development and testing)
 - 🌱 I’m currently learning
