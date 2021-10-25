@@ -21,4 +21,6 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
   * How to make development workflows easier (development and testing)
   * [Basic static site generation](https://github.com/krmckone/lk-site)
 - 💬 Ask me about Big Ten football (Iowa born and raised)
+- 📚 I like to collect textbooks
+- 🎮 I play PC games and enjoy building PCs
 - 📫 How to reach me: kmckone1825@gmail.com
