@@ -6,6 +6,8 @@
 
 Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
 
+- I'm a follower of Christ
+   * My favorite verses include John 14:6, Matthew 6:34, Proverbs 3:5-8, James 1:19-27
 - 🔭 ⚡ 🚚 I’m currently working on logistics problems
 - I'm interested in Computer Science and Mathematics topics and education
 - My daily workflows include
