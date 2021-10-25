@@ -6,7 +6,7 @@
 
 Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
 
-- 🔭 I’m currently working on logistics problems
+- 🔭 ⚡ 🚚 I’m currently working on logistics problems
 - I'm interested in Computer Science and Mathematics topics and education
 - My daily workflows include
     * Ruby/Rails
