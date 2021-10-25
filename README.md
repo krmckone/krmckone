@@ -8,7 +8,7 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
 
 - I'm a follower of Christ and a student of the Bible
    * My favorite verses include John 14:6, Matthew 6:34, Proverbs 3:5-8, James 1:19-27
-- 🔭 ⚡ 🚚 I’m currently working on logistics problems
+- 🔭 ⚡ 🚚 I’m currently working on logistics problems @transfixio
 - I'm interested in Computer Science and Mathematics topics and education
 - My daily workflows include
     * Ruby/Rails
