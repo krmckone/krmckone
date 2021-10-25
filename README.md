@@ -14,11 +14,11 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
     * Ruby/Rails
     * Zsh (lots of various CLIs)
     * Postgres
-    * Making development workflows easier (development and testing)
-    * [A basic static site generator](https://github.com/krmckone/lk-site)
 - 🌱 I’m currently learning
   * Linux programming interface
   * C Programming
   * Computer Graphics
+  * How to make development workflows easier (development and testing)
+  * [Basic static site generation](https://github.com/krmckone/lk-site)
 - 💬 Ask me about Big Ten football (Iowa born and raised)
 - 📫 How to reach me: kmckone1825@gmail.com
