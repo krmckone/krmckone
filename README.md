@@ -12,7 +12,7 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
 - I'm interested in Computer Science and Mathematics topics and education
 - My daily workflows include
     * Ruby/Rails
-    * Zsh (lots of various CLIs)
+    * Zsh (lots of various CLIs including git pre-commit hooks)
     * Postgres
 - 🌱 I’m currently learning
   * Linux programming interface
