@@ -15,7 +15,8 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
     * Zsh (lots of various CLIs including git pre-commit hooks)
     * Postgres
 - 🌱 I’m currently learning
-  * Linux programming interface
+  * Web3/decentralized web/[IPFS](https://ifsp.io)
+  * The Linux programming interface
   * C Programming
   * Computer Graphics
   * How to make development workflows easier (development and testing)
