@@ -33,7 +33,7 @@
   * How to make development workflows easier (development and testing)
   * [Basic static site generation](https://github.com/krmckone/lk-site)
 
-### 💬 Ask me about Big Ten football (Iowa born and raised)
+### 💬 Ask me about Big Ten football 🏈 (Iowa born and raised)
 ### 📚 I like to collect textbooks (old and new)
 ### 🎮 I play PC games and enjoy building PCs
 ### 📫 How to reach me: kmckone1825@gmail.com
