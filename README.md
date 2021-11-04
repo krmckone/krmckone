@@ -1,10 +1,10 @@
-# git checkout -b let-us-roll
+### git checkout -b let-us-roll
 
 <!--
 **krmckone/krmckone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV)
+# I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV)
 ### My favorite verses also include
 #### Matthew
 - [6:34](https://www.biblegateway.com/passage/?search=matthew+6%3A34&version=ESV)
