@@ -4,7 +4,8 @@
 **krmckone/krmckone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV). I'm currently working towards an unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Business is not the issue, but hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death.](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV)
+# I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV).
+I'm currently working towards an unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Business is not the issue, but hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death.](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was ever hurried.
 ### My favorite verses also include
 #### Matthew
 - [6:34](https://www.biblegateway.com/passage/?search=matthew+6%3A34&version=ESV)
