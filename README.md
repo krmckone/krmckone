@@ -12,6 +12,8 @@ I'm currently learning about the practice of the unhurried life, disciplined by 
 #### Proverbs
 - [3:5-8](https://www.biblegateway.com/passage/?search=proverbs+3%3A5-8&version=ESV)
 - [9:10](https://www.biblegateway.com/passage/?search=proverbs+9%3A10&version=ESV)
+#### II Corinthians
+- [5:11-21](https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A11-21&version=ESV)
 #### James
 - [1:19-27](https://www.biblegateway.com/passage/?search=james+1%3A19-27&version=ESV)
 #### Philippians 
