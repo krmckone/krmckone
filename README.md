@@ -4,8 +4,6 @@
 **krmckone/krmckone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
-
 - I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV)
    * My favorite verses also include
       * Matthew
@@ -35,3 +33,5 @@ Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without m
 - 📚 I like to collect textbooks
 - 🎮 I play PC games and enjoy building PCs
 - 📫 How to reach me: kmckone1825@gmail.com
+
+Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
