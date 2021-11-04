@@ -18,7 +18,7 @@
 
 ### 🔭 ⚡ 🚚 I’m currently working on logistics problems @transfixio
 
-### I'm interested in Computer Science and Mathematics topics and education
+### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education
 
 ### My daily workflows include
   * Ruby/Rails
