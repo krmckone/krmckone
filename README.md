@@ -5,7 +5,7 @@
 -->
 
 # I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.biblegateway.com/passage/?search=John%2014%3A6&version=ESV).
-I'm currently learninga about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Business is not the issue, but hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was not hurried.
+I'm currently learning about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Business is not the issue, but hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was not hurried.
 ### My favorite verses also include
 #### Matthew
 - [6:34](https://www.biblegateway.com/passage/?search=matthew+6%3A34&version=ESV)
@@ -24,6 +24,7 @@ I'm currently learninga about the practice of the unhurried life, disciplined by
 ### My daily workflows include
 - Ruby/Rails
 - Zsh (lots of various CLIs including git pre-commit hooks)
+- Neovim (lots of plugins)
 - Postgres
 
 ### 🌱 I’m currently learning
