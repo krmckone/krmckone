@@ -37,6 +37,8 @@ I'm currently learning about the practice of the unhurried life, disciplined by 
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
 
+### ⛪ I grew up going to church but was atheist/agnostic until 2018 
+### 🐕 My wife and I have a corgi named Nugget
 ### 💬 Ask me about Big Ten football 🏈 (Iowa born and raised)
 ### 📚 I like to collect textbooks (old and new)
 ### 🎮 I play PC games and enjoy building PCs
