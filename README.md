@@ -29,7 +29,7 @@ lives.
 - [1:19-27](https://www.biblegateway.com/passage/?search=james+1%3A19-27&version=ESV)
 #### Philippians 
 - [1:3-11](https://www.biblegateway.com/passage/?search=phillipians+1%3A3-11&version=ESV)
-#### 1 Thessalonians
+#### I Thessalonians
 - [4:9-11](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A9-11&version=ESV)
 
 ### 🔭 ⚡ 🚚 I’m currently working on logistics problems @transfixio
