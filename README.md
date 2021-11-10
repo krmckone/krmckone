@@ -43,6 +43,7 @@ lives.
 - Postgres
 
 ### 🌱 I’m currently learning
+- Haskell
 - Web3/decentralized web/[IPFS](https://ipfs.io)
 - The Linux programming interface
 - C Programming
