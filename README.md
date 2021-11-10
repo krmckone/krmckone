@@ -46,6 +46,11 @@ lives.
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
 - [Solarized (dark)](https://ethanschoonover.com/solarized/)
 
+### My favorite fonts
+- [Sauce Code Pro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro)
+- [Meslo LG](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/M/Regular/complete/Meslo%20LG%20M%20Regular%20Nerd%20Font%20Complete.ttf)
+- [Go Mono](https://github.com/powerline/fonts/tree/master/GoMono)
+
 ### 🌱 I’m currently learning
 - Haskell
 - Web3/decentralized web/[IPFS](https://ipfs.io)
