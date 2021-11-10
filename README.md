@@ -43,7 +43,7 @@ lives.
 - Postgres
 
 ### My favorite color schemes
-- [Tokyonight (storm)][https://github.com/folke/tokyonight.nvim]
+- [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
 - [Solarized (dark)](https://ethanschoonover.com/solarized/)
 
 ### 🌱 I’m currently learning
