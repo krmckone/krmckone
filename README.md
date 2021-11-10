@@ -50,7 +50,7 @@ lives.
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
 
-[![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmckone&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmckone&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⛪ I grew up going to church; I was atheist/agnostic until 2018 
 ### 🐕 My wife and I have a corgi named Nugget
