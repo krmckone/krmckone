@@ -42,6 +42,10 @@ lives.
 - Neovim (lots of plugins)
 - Postgres
 
+### My favorite color schemes
+- [Tokyonight (storm)][https://github.com/folke/tokyonight.nvim]
+- [Solarized (dark)](https://ethanschoonover.com/solarized/)
+
 ### 🌱 I’m currently learning
 - Haskell
 - Web3/decentralized web/[IPFS](https://ipfs.io)
