@@ -38,9 +38,10 @@ lives.
 
 ### My daily workflows include
 - Ruby/Rails
-- Zsh (lots of various CLIs including git pre-commit hooks)
-- Neovim (lots of plugins)
+- [Zsh](https://www.zsh.org/) + [OMZ](https://github.com/ohmyzsh/ohmyzsh/) (lots of various CLIs/tools including git pre-commit hooks)
+- [Neovim](https://github.com/neovim/neovim) (lots of plugins)
 - Postgres
+- [Obsidian](https://obsidian.md/)
 
 ### My favorite color schemes
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
