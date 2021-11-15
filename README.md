@@ -27,6 +27,7 @@ lives.
 - [5:11-21](https://www.biblegateway.com/passage/?search=2+Corinthians+5%3A11-21&version=ESV)
 #### James
 - [1:19-27](https://www.biblegateway.com/passage/?search=james+1%3A19-27&version=ESV)
+- [3:2](https://www.biblegateway.com/passage/?search=James%203%3A2&version=ESV)
 #### Philippians 
 - [1:3-11](https://www.biblegateway.com/passage/?search=phillipians+1%3A3-11&version=ESV)
 #### I Thessalonians
