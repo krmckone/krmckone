@@ -17,6 +17,9 @@ and choosing on impulse, having no thought-out reasons
 for their behavior. Following whims, they live shallow
 lives.
 
+*A lot of the above is inspired by John Mark Comer's Ruthless Elimination of Hurry. I also really like The Wisdom Pyramid by
+Bret McCracken and Deep Work by Cal Newport.*
+
 ### Some of my favorite verses also include
 #### Matthew
 - [6:34](https://www.biblegateway.com/passage/?search=matthew+6%3A34&version=ESV)
