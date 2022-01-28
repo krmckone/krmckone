@@ -50,6 +50,7 @@ Bret McCracken and Deep Work by Cal Newport.*
 ### My favorite color schemes
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
 - [Solarized (dark)](https://ethanschoonover.com/solarized/)
+- [Nightfox (I use the dawnfox variant)](https://github.com/EdenEast/nightfox.nvim)
 
 ### My favorite fonts
 - [Sauce Code Pro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro)
