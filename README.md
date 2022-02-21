@@ -43,14 +43,19 @@ Bret McCracken and Deep Work by Cal Newport.*
 ### My daily workflows include
 - Ruby/Rails
 - [Zsh](https://www.zsh.org/) + [OMZ](https://github.com/ohmyzsh/ohmyzsh/) (lots of various CLIs/tools including git pre-commit hooks)
-- [Neovim](https://github.com/neovim/neovim) (lots of plugins)
+- [Neovim](https://github.com/neovim/neovim) (with plugins)
 - Postgres
-- [Obsidian](https://obsidian.md/)
+- [Obsidian sometimes. I prefer taking notes in nvim.](https://obsidian.md/)
+
+I make my configurations, setup, and helper files available at
+- [dotfiles](https://github.com/krmckone/dotfiles)
+- [krm-helpers](https://github.com/krmckone/krm-helpers)
+- [nvim-config](https://github.com/krmckone/nvim-config)
 
 ### My favorite color schemes
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
 - [Solarized (dark)](https://ethanschoonover.com/solarized/)
-- [Nightfox (I use the dawnfox variant)](https://github.com/EdenEast/nightfox.nvim)
+- [Nightfox (I use the nordfox variant)](https://github.com/EdenEast/nightfox.nvim)
 
 ### My favorite fonts
 - [Sauce Code Pro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro)
