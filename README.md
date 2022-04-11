@@ -63,7 +63,7 @@ I make my configurations, setup, and helper files available at
 - [Go Mono](https://github.com/powerline/fonts/tree/master/GoMono)
 
 ### 🌱 I’m currently learning
-- Haskell
+- Haskell/Functional Programming
 - Web3/decentralized web/[IPFS](https://ipfs.io)
 - The Linux programming interface
 - C Programming
