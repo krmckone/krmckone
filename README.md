@@ -70,6 +70,7 @@ I make my configurations, setup, and helper files available at
 - Computer Graphics (Theory and Applications)
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
+- How to best cultivate focused time while avoiding distractions
 
 [![Kaleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=krmckone&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
