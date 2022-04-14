@@ -43,7 +43,7 @@ Bret McCracken and Deep Work by Cal Newport.*
 ### My daily workflows include
 - Ruby/Rails
 - [Zsh](https://www.zsh.org/) + [OMZ](https://github.com/ohmyzsh/ohmyzsh/) (lots of various CLIs/tools including git pre-commit hooks)
-- [Neovim](https://github.com/neovim/neovim) (with plugins)
+- [Neovim](https://github.com/neovim/neovim) (with plugins, list to come here at some point but available in my nevom config repo)
 - Postgres
 - [Obsidian sometimes. I prefer taking notes in nvim.](https://obsidian.md/)
 
