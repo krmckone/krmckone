@@ -68,6 +68,7 @@ I make my configurations, setup, and helper files available at
 - The Linux programming interface
 - C Programming
 - Computer Graphics (Theory and Applications)
+- Game Theory
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
 - How to best cultivate focused time while avoiding distractions
