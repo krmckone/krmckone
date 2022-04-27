@@ -9,7 +9,7 @@ I'm currently learning about the practice of the unhurried life, disciplined by 
 
 So far, this has been a really big challenge for me. As someone that works constantly on the computer as a vocation, it is hard to not flip through
 browser tabs or check social media every five minutes. The need to always be connected or engaged in something is tempting for some reason that I
-don't understand. However, I do know that for me it is mentally exhausting and incredibly unrewarding. There's certainly use to be found in social media use, like staying informed with the news or staying close with friends. But I'm someone who allows themself to easily be consumed with what is available, and that is the problem.
+don't understand. However, I do know that for me it is mentally exhausting and incredibly unrewarding. There's certainly use to be found in social media use, like staying informed with the news or staying close with friends. But I'm someone who allows himself to easily be consumed with what is available, and that is the problem.
 
 ### I like what Tim Keller says about `meditation`:
 > Persons who meditate become people of substance who
