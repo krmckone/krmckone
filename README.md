@@ -86,4 +86,4 @@ I make my configurations, setup, and helper files available at
 ### 🎮 I play PC games and enjoy building PCs
 ### 📫 How to reach me: kmckone1825@gmail.com
 
-Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944)
+Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944). This is certainly still a work in progress but I've had success with it on my mac laptops.
