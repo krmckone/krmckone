@@ -29,6 +29,8 @@ Bret McCracken and Deep Work by Cal Newport.*
 - [6:34](https://www.biblegateway.com/passage/?search=matthew+6%3A34&version=ESV)
 #### Luke
 - [5:29-32](https://www.biblegateway.com/passage/?search=Luke+5%3A29-32&version=ESV)
+#### Pslams
+- [2](https://www.biblegateway.com/passage/?search=Psalm+2&version=ESV)
 #### Proverbs
 - [3:5-8](https://www.biblegateway.com/passage/?search=proverbs+3%3A5-8&version=ESV)
 - [9:10](https://www.biblegateway.com/passage/?search=proverbs+9%3A10&version=ESV)
