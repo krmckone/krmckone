@@ -55,6 +55,7 @@ Bret McCracken and Deep Work by Cal Newport.*
 - [Neovim](https://github.com/neovim/neovim) (with plugins, list to come here at some point but available in my nevom config repo)
 - Postgres
 - [Obsidian sometimes. I prefer taking notes in nvim.](https://obsidian.md/)
+  - I'm also trying out [Logseq](https://logseq.com/)
 
 I make my configurations, setup, and helper files available at
 - [dotfiles](https://github.com/krmckone/dotfiles)
