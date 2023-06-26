@@ -77,7 +77,7 @@ I make my configurations, setup, and helper files available at
 - Web3/decentralized web/[IPFS](https://ipfs.io)
 - The Linux programming interface
 - C Programming
-- Computer Graphics (Theory and Applications)
+- Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl)
 - Game Theory
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
