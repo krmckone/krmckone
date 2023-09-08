@@ -1,9 +1,5 @@
 ### git checkout -b let-us-roll
 
-<!--
-**krmckone/krmckone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 # I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.esv.org/John+14+6/). As a layman, I'm deeply interested in Christian apologetics.
 In addition, I'm currently learning about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Busyness is not the issue, hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). [He also spends prolonged time alone in the wilderness](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11&version=ESV). [He is inturrupted on his way to heal a child (as prompted by her father) by another woman that seeks him out](https://www.biblegateway.com/passage/?search=Mark+5%3A21-43&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was not hurried. If something is worth doing then it may be worth not hurrying it.
 
