@@ -64,7 +64,7 @@ I make my configurations, setup, and helper files available at
 - [Nightfox (I use the nordfox variant)](https://github.com/EdenEast/nightfox.nvim)
 
 ### My favorite fonts
-- [Sauce Code Pro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro)
+- [Sauce Code Pro](https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/SourceCodePro) (Generally use this one when available)
 - [Meslo LG](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/M/Regular/complete/Meslo%20LG%20M%20Regular%20Nerd%20Font%20Complete.ttf)
 - [Go Mono](https://github.com/powerline/fonts/tree/master/GoMono)
 
@@ -73,8 +73,9 @@ I make my configurations, setup, and helper files available at
 - Web3/decentralized web/[IPFS](https://ipfs.io)
 - The Linux programming interface
 - C Programming
-- Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl)
+- Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl) (Priority right now as of Fall 2023)
 - Game Theory
+- [Category Theory](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - How to make development workflows easier (development and testing)
 - [Basic static site generation](https://github.com/krmckone/lk-site)
 - How to best cultivate focused time while avoiding distractions
