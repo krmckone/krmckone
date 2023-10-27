@@ -60,7 +60,7 @@ I make my configurations, setup, and helper files available at
 
 ### My favorite color schemes
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
-- [Solarized (dark)](https://ethanschoonover.com/solarized/)
+- [Solarized (dark)](https://ethanschoonover.com/solarized/) ( By far my most used )
 - [Nightfox (I use the nordfox variant)](https://github.com/EdenEast/nightfox.nvim)
 
 ### My favorite fonts
@@ -87,7 +87,7 @@ I make my configurations, setup, and helper files available at
 ### 💬 Ask me about Big Ten football 🏈 (Iowa born and raised)
 ### 📚 I like to collect textbooks (old and new)
 ### 🎮 I play PC games and enjoy building PCs
-### 🏠 We move around a lot
+### 🏠 We move around a lot for my wife's work
 ### 📫 How to reach me: kmckone1825@gmail.com
 
 Check out my [Gist on setting up multiple GitHub accounts and SSH Keys without modifying ~/.ssh/config](https://gist.github.com/krmckone/6f9429b97fe9735a2ab43b3b31049944). This is certainly still a work in progress but I've had success with it on my mac laptops.
