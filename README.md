@@ -43,7 +43,7 @@ Bret McCracken and Deep Work by Cal Newport.*
 
 ### 🔭 ⚡ 🚚 I’m currently working on logistics problems @transfixio
 
-### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education
+### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education. My favorite areas are linear and abstract algebra.
 
 ### My daily workflows include
 - Ruby/Rails
