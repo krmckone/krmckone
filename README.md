@@ -74,6 +74,7 @@ I make my configurations, setup, and helper files available at
 - The Linux programming interface
 - C Programming
 - Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl) (Priority right now as of Fall 2023)
+   - This is using two books, Computer Graphics: Principles and Practice and RTR.
 - Game Theory
 - [Category Theory](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - How to make development workflows easier (development and testing)
