@@ -68,11 +68,10 @@ I make my configurations, setup, and helper files available at
 - [Meslo LG](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/Meslo/M/Regular/complete/Meslo%20LG%20M%20Regular%20Nerd%20Font%20Complete.ttf)
 - [Go Mono](https://github.com/powerline/fonts/tree/master/GoMono)
 
-### 🌱 I’m currently learning
-- Haskell/Functional Programming
+### 🌱 I’m currently interested in
 - Web3/decentralized web/[IPFS](https://ipfs.io)
 - The Linux programming interface
-- C Programming
+- C++ Programming
 - Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl) (Priority right now as of Fall 2023)
    - This is using two books, Computer Graphics: Principles and Practice and RTR.
 - Game Theory
