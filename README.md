@@ -3,7 +3,7 @@
 # I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.esv.org/John+14+6/). As a layman, I'm deeply interested in Christian apologetics.
 In addition, I'm currently learning about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Busyness is not the issue, hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). [He also spends prolonged time alone in the wilderness](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11&version=ESV). [He is inturrupted on his way to heal a child (as prompted by her father) by another woman that seeks him out](https://www.biblegateway.com/passage/?search=Mark+5%3A21-43&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was not hurried. If something is worth doing then it may be worth not hurrying it.
 
-So far, this has been a really big challenge for me. As someone that works constantly on the computer as a vocation, it is hard to not flip through
+So far, this has been a really big challenge for me. As someone that works constantly on the computer in a full time capacity, it's hard not to flip through
 browser tabs or check some form of social media every five minutes. The need to always be connected or engaged in something is tempting for some reason that I
 don't understand and can't really describe. However, I do know that for me it is mentally exhausting and quickly surpasses a thin threshold where it becomes unrewarding. There's certainly use to be found in social media, like staying informed with the news or checking in with friends. But I'm someone who allows himself to easily be consumed with what is available, and that is the problem.
 
@@ -57,6 +57,7 @@ I make my configurations, setup, and helper files available at
 - [dotfiles](https://github.com/krmckone/dotfiles)
 - [krm-helpers](https://github.com/krmckone/krm-helpers)
 - [nvim-config](https://github.com/krmckone/nvim-config)
+In the past I've mostly used nvim, however, I've recently made the switch back to vscode + vim plugins.
 
 ### My favorite color schemes
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
