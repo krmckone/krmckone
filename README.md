@@ -41,9 +41,9 @@ Bret McCracken and Deep Work by Cal Newport.*
 #### I Thessalonians
 - [4:9-11](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A9-11&version=ESV)
 
-### 🔭 ⚡ 🚚 I’m currently working on transportation problems @transfixio. I worked specifically on EDI things for a while now I'm working on payments problems.
+### 🔭 ⚡ 🚚 I’m currently working on problems @transfixio. I worked specifically on EDI things for a while now I'm working on payments problems.
 
-### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education. My favorite areas are linear and abstract algebra.
+### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education. My favorite areas are linear and abstract algebra with some calculus and numerical analysis.
 
 ### My daily workflows include
 - Ruby/Rails
