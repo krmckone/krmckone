@@ -75,6 +75,7 @@ In the past I've mostly used nvim, however, I've recently made the switch back t
 - C++ Programming
 - Computer Graphics (Theory and Applications) check out [lk-opengl](https://github.com/krmckone/lk-opengl) (Priority right now as of Fall 2023)
    - This is using two books, Computer Graphics: Principles and Practice and RTR. One day maybe I'll get to work professionally in graphics.
+   - [RTOW](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
 - Game Theory
 - [Category Theory](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - How to make development workflows easier (development and testing)
