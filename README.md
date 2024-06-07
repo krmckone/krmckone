@@ -60,6 +60,8 @@ I make my configurations, setup, and helper files available at
 - [nvim-config](https://github.com/krmckone/nvim-config)
 In the past I've mostly used nvim, however, I've recently made the switch back to vscode + vim plugins.
 
+I have a custom static site generator at github.com/krmckone/lk-site and output is available at krmckone.com
+
 ### Color schemes that I use
 - [Tokyonight (storm)](https://github.com/folke/tokyonight.nvim)
 - [Solarized (light)](https://ethanschoonover.com/solarized/) ( By far my most used )
