@@ -1,7 +1,9 @@
 ### git checkout -b let-us-roll
 
 # I'm an apprentice of the way of Christ and a student of the Bible [(John 14:6)](https://www.esv.org/John+14+6/). As a layman, I'm deeply interested in Christian apologetics.
-In addition, I'm currently learning about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Busyness is not the issue, hurriedness is. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). [He also spends prolonged time alone in the wilderness](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11&version=ESV). [He is inturrupted on his way to heal a child (as prompted by her father) by another woman that seeks him out](https://www.biblegateway.com/passage/?search=Mark+5%3A21-43&version=ESV). Jesus' schedule was busy in the gospels, filled to the brim, essentially. He was busy, but he was not hurried. If something is worth doing then it may be worth not hurrying it.
+I didn't always believe in Jesus and follow him, but through a combination of antecdotal experience and also investigation of Christian apologetics I decided to become a Christian in 2018.
+
+In addition, I'm currently learning about the practice of the unhurried life, disciplined by Christ's examples. i.e., I desire to practice a daily life without hurry. Being busy with the daily life is not necessarily an issue, but hurriedness in the midst of it all is an issue. [For example, Jesus waits 2 days before attending to Lazarus, his dear friend who is close to death](https://www.biblegateway.com/passage/?search=John+11%3A1-44&version=ESV). [He also spends prolonged time alone in the wilderness](https://www.biblegateway.com/passage/?search=Matthew+4%3A1-11&version=ESV). [He is inturrupted on his way to heal a child (as prompted by her father) by another woman that seeks him out](https://www.biblegateway.com/passage/?search=Mark+5%3A21-43&version=ESV). Jesus' daily schedule was busy in lots of examples in the Gospels throughout his ministry. We can assume that he had some less busy days throughout his ministry, but sometimes it looks like he can't catch a break. He was busy, but he was not hurried. If something is worth doing then it may be worth not hurrying it.
 
 So far, this has been a really big challenge for me. As someone that works constantly on the computer in a full time capacity, it's hard not to flip through
 browser tabs or check some form of social media every five minutes. The need to always be connected or engaged in something is tempting for some reason that I
@@ -41,7 +43,7 @@ Bret McCracken and Deep Work by Cal Newport.*
 #### I Thessalonians
 - [4:9-11](https://www.biblegateway.com/passage/?search=1+Thessalonians+4%3A9-11&version=ESV)
 
-### 🔭 ⚡ 🚚 I’m currently working on problems @transfixio. I worked specifically on EDI things for a while now I'm working on payments problems.
+### 🔭 ⚡ 🚚 I’m currently working on problems @transfixio. I worked specifically on EDI things for a while now I'm working on payments and general brokerage SaaS stuff.
 * I recently reworked how the company parses, builds, and validates inbound and outbound X12 transmissions.
 
 ### I'm interested in 💻 Computer Science and ➕ Mathematics topics and education. My favorite areas are linear and abstract algebra with some calculus and numerical analysis.
